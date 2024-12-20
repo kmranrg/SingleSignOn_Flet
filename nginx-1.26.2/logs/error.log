@@ -1,0 +1,15 @@
+2024/12/19 22:54:59 [error] 37624#24368: *1 CreateFile() "C:\Users\kmran.ONE_LAB\Downloads\nginx-1.26.2\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/12/19 23:00:31 [notice] 37840#1392: signal process started
+2024/12/19 23:01:19 [notice] 39908#31316: signal process started
+2024/12/19 23:07:27 [emerg] 40072#11008: directive "ssl_certificate_key" is not terminated by ";" in C:\Users\kmran.ONE_LAB\Downloads\nginx-1.26.2\nginx-1.26.2/conf/nginx.conf:91
+2024/12/19 23:08:31 [notice] 20868#14224: signal process started
+2024/12/19 23:10:33 [notice] 29732#41348: signal process started
+2024/12/19 23:13:57 [error] 7120#30280: *50 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while proxying upgraded connection, client: 127.0.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://127.0.0.1:8000/ws", host: "127.0.0.1"
+2024/12/19 23:13:57 [error] 7120#30280: *27 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while proxying upgraded connection, client: 127.0.0.1, server: localhost, request: "GET /ws HTTP/1.1", upstream: "http://127.0.0.1:8000/ws", host: "localhost"
+2024/12/19 23:40:03 [notice] 6592#19560: signal process started
+2024/12/19 23:40:03 [error] 6592#19560: OpenEvent("Global\ngx_stop_38700") failed (2: The system cannot find the file specified)
+2024/12/19 23:40:29 [notice] 41756#26660: signal process started
+2024/12/19 23:40:29 [error] 41756#26660: OpenEvent("Global\ngx_stop_38700") failed (2: The system cannot find the file specified)
+2024/12/19 23:45:13 [notice] 14428#25516: signal process started
+2024/12/19 23:56:00 [notice] 12428#33228: signal process started
+2024/12/19 23:56:00 [error] 12428#33228: CreateFile() "C:\Users\kmran.ONE_LAB\Documents\ka_work\SingleSignOn_Flet\nginx-1.26.2/logs/nginx.pid" failed (2: The system cannot find the file specified)

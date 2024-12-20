@@ -1,0 +1,2 @@
+1) Start nginx server: start nginx
+2) Run app: flet run --web --port 8000

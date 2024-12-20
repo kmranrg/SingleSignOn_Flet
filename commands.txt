@@ -1,0 +1,6 @@
+flet run --web --port 8000 .\main.py
+python https_server.py
+nginx.exe
+nginx -s stop
+start nginx
+flet run --web --port 8000
